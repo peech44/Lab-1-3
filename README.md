@@ -2,8 +2,11 @@
 Lab 1-3 Lotr game escape from the rider of nazgul
 
  Frodo escape from the nazgul in black forest
- use q w e to move to exit point
+ 
+ use q w e                 to move to exit point
+ 
      a   d
+     
      z x c
   
  Do not catched by nazgul 
